@@ -1,10 +1,46 @@
 fileFormatVersion: 2
-guid: 5e0add122902eee49ae7c8db5c75a24d
+guid: 972ac49d4dfe3294480e7e66464e591f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5980138207813055979
-    second: okami2DSprite_0
+      213: 7437685092641353733
+    second: main menu_0
+  - first:
+      213: 9134850749059203067
+    second: main menu_1
+  - first:
+      213: 4356928732326779206
+    second: main menu_2
+  - first:
+      213: -5922356773251201222
+    second: main menu_3
+  - first:
+      213: -1387997548284674578
+    second: main menu_4
+  - first:
+      213: -7956419873832106417
+    second: main menu_5
+  - first:
+      213: 4346725025861560769
+    second: main menu_6
+  - first:
+      213: -4666058830351102142
+    second: main menu_7
+  - first:
+      213: -3865868151720697617
+    second: main menu_8
+  - first:
+      213: 1317918370655922109
+    second: main menu_9
+  - first:
+      213: -3365623179273675028
+    second: main menu_10
+  - first:
+      213: -5345354695989970859
+    second: main menu_11
+  - first:
+      213: 7345539609768557581
+    second: main menu_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,375 +136,287 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: okami2DSprite_0
+      name: main menu_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 0
-        width: 220
-        height: 256
-      alignment: 9
-      pivot: {x: 0.4525125, y: 0.51632404}
+        x: 47
+        y: 262
+        width: 219
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51acf8febf7420da0800000000000000
-      internalID: -5980138207813055979
+      spriteID: 5003b1a6f27f73760800000000000000
+      internalID: 7437685092641353733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_1
+      name: main menu_1
       rect:
         serializedVersion: 2
-        x: 264
-        y: 0
-        width: 237
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 506df1bad9be8634c84c834d22990faa
-      internalID: -835573630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: okami2DSprite_2
-      rect:
-        serializedVersion: 2
-        x: 517
-        y: 0
-        width: 237
-        height: 256
-      alignment: 9
-      pivot: {x: 0.52849257, y: 0.49183825}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ead119b578fa888449f49a7d75a14c8c
-      internalID: 1573837986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: okami2DSprite_3
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 0
-        width: 259
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a93c803ae6ccc174b9447eca7d7b4edd
-      internalID: -1410144132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: okami2DSprite_4
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 0
+        x: 286
+        y: 262
         width: 220
-        height: 256
-      alignment: 9
-      pivot: {x: 0.5189955, y: 0.47551388}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c978e0eb282869b4382eeb44f2cf965d
-      internalID: -198375746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: okami2DSprite_5
-      rect:
-        serializedVersion: 2
-        x: 1053
-        y: 0
-        width: 242
-        height: 256
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 95989eca8173eba4594411569ea0d599
-      internalID: 1586789781
+      spriteID: bff72e59b5285ce70800000000000000
+      internalID: 9134850749059203067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_6
+      name: main menu_2
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 0
-        width: 251
-        height: 256
+        x: 527
+        y: 262
+        width: 218
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 78ce1b1a08f6cc643884976ae4735e23
-      internalID: 1828887330
+      spriteID: 649d70a199be67c30800000000000000
+      internalID: 4356928732326779206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_7
+      name: main menu_3
       rect:
         serializedVersion: 2
-        x: 1540
-        y: 0
-        width: 250
-        height: 256
+        x: 47
+        y: 145
+        width: 160
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 82f8a94ca454cf14ba17f39de9c22678
-      internalID: 341739555
+      spriteID: a37cb3984ef8fcda0800000000000000
+      internalID: -5922356773251201222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_8
+      name: main menu_4
       rect:
         serializedVersion: 2
-        x: 1796
-        y: 0
-        width: 243
-        height: 256
+        x: 222
+        y: 145
+        width: 172
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e70709586f8700447b3dbbdc48debb0e
-      internalID: 1719669439
+      spriteID: eedf0617597dcbce0800000000000000
+      internalID: -1387997548284674578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_9
+      name: main menu_5
       rect:
         serializedVersion: 2
-        x: 2054
-        y: 0
-        width: 250
-        height: 256
+        x: 410
+        y: 145
+        width: 101
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bbfa8ac982ae2a44594ed9788f4ad33f
-      internalID: -281952226
+      spriteID: f460168974e159190800000000000000
+      internalID: -7956419873832106417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_10
+      name: main menu_6
       rect:
         serializedVersion: 2
-        x: 3592
-        y: 0
-        width: 220
-        height: 256
+        x: 526
+        y: 145
+        width: 102
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 680502e09c94e4f48812b0c9f4bb4c70
-      internalID: 1700613880
+      spriteID: 1c967ce816ba25c30800000000000000
+      internalID: 4346725025861560769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_11
+      name: main menu_7
       rect:
         serializedVersion: 2
-        x: 2318
-        y: 0
-        width: 262
-        height: 256
+        x: 643
+        y: 145
+        width: 102
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a6540f5fed266e34da25bb8a1c0b3fd5
-      internalID: -2098421780
+      spriteID: 24f09d33734de3fb0800000000000000
+      internalID: -4666058830351102142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_12
+      name: main menu_8
       rect:
         serializedVersion: 2
-        x: 2572
-        y: 0
-        width: 272
-        height: 256
+        x: 47
+        y: 28
+        width: 160
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 64be2a3510e7c444597eef1787219873
-      internalID: 830445606
+      spriteID: fe02134f56da95ac0800000000000000
+      internalID: -3865868151720697617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_13
+      name: main menu_9
       rect:
         serializedVersion: 2
-        x: 2860
-        y: 0
-        width: 220
-        height: 256
+        x: 222
+        y: 28
+        width: 172
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 053302ac8da3ab94fbff5a5c38dd0c55
-      internalID: 204592040
+      spriteID: db768e586cf2a4210800000000000000
+      internalID: 1317918370655922109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_14
+      name: main menu_10
       rect:
         serializedVersion: 2
-        x: 3107
-        y: 0
-        width: 225
-        height: 256
+        x: 409
+        y: 28
+        width: 102
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 35051ba72ac1e6047963940ae2ab67c5
-      internalID: -166842016
+      spriteID: cee529fdc87ea41d0800000000000000
+      internalID: -3365623179273675028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_15
+      name: main menu_11
       rect:
         serializedVersion: 2
-        x: 3346
-        y: 0
-        width: 220
-        height: 256
+        x: 526
+        y: 28
+        width: 102
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0997f48bc89522043b678d6911ca86e8
-      internalID: -497507710
+      spriteID: 5583d03993c71d5b0800000000000000
+      internalID: -5345354695989970859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: okami2DSprite_16
+      name: main menu_12
       rect:
         serializedVersion: 2
-        x: 3344
-        y: 0
-        width: 220
-        height: 256
+        x: 643
+        y: 28
+        width: 102
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f70ccfa957e372946afad634bcfbf5ba
-      internalID: 1266092163
+      spriteID: d0cf0d35b5990f560800000000000000
+      internalID: 7345539609768557581
       vertices: []
       indices: 
       edges: []
@@ -477,7 +425,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 152ba6e58344aa64986369a7b92bdf1c
+    spriteID: 983a7fca4da70a044a1667f8de6d90e2
     internalID: 0
     vertices: []
     indices: 
@@ -487,23 +435,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      okami2DSprite_0: -5980138207813055979
-      okami2DSprite_1: -835573630
-      okami2DSprite_10: 1700613880
-      okami2DSprite_11: -2098421780
-      okami2DSprite_12: 830445606
-      okami2DSprite_13: 204592040
-      okami2DSprite_14: -166842016
-      okami2DSprite_15: -497507710
-      okami2DSprite_16: 1266092163
-      okami2DSprite_2: 1573837986
-      okami2DSprite_3: -1410144132
-      okami2DSprite_4: -198375746
-      okami2DSprite_5: 1586789781
-      okami2DSprite_6: 1828887330
-      okami2DSprite_7: 341739555
-      okami2DSprite_8: 1719669439
-      okami2DSprite_9: -281952226
+      main menu_0: 7437685092641353733
+      main menu_1: 9134850749059203067
+      main menu_10: -3365623179273675028
+      main menu_11: -5345354695989970859
+      main menu_12: 7345539609768557581
+      main menu_2: 4356928732326779206
+      main menu_3: -5922356773251201222
+      main menu_4: -1387997548284674578
+      main menu_5: -7956419873832106417
+      main menu_6: 4346725025861560769
+      main menu_7: -4666058830351102142
+      main menu_8: -3865868151720697617
+      main menu_9: 1317918370655922109
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
